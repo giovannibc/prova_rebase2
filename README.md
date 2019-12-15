@@ -10,3 +10,5 @@ Commit bracnh1
 
 Commit bracnh2
 >>>>>>> 70fd05f Commit4
+
+Commit7
